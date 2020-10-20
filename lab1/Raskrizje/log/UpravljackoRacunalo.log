@@ -1,0 +1,46 @@
+Oct 20, 2020 3:18:22 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljakoRacunalo: pokreće se žuto stanje iz stanja crveno na semaforima SA1 i SA3
+Oct 20, 2020 3:18:24 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: pokreće se prvo stanje prebacivanjem semafora SA1, SA3, SP2 i SP4 u stanje zeleno nakon 1975 milisekundi
+Oct 20, 2020 3:18:34 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 1. stanja u trajanju od 10004 milisekundi
+Oct 20, 2020 3:18:44 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: kraj 1* stanja nakon 10006 milisekundi
+Oct 20, 2020 3:18:44 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 2. stanja kreće od početka ciklusa nakon 21992 milisekundi, semafori SP2 i SP4 se postavljaju u stanje crveno
+Oct 20, 2020 3:18:49 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Drugo stanje u fazi paljenja žutog svjetla za semafore SA1 i SA3 nakon 5000 milisekundi nakon početka drugog stanja
+Oct 20, 2020 3:18:54 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Drugo stanje kraj, semafori SA1 i SA3 se postavljaju u stanje crveno nakon 5003 miliseknudi od početka drugog stanja, drugo stanje završava
+Oct 20, 2020 3:18:54 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 3. stanja 31995miliseknudi nakon početka ciklusa
+Oct 20, 2020 3:18:59 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 3. stanja, treće stanje je trajalo 5001 milisekundi
+Oct 20, 2020 3:18:59 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak žutog stanja pred 4. stanje 36997 milisekundi nakon početka ciklusa
+Oct 20, 2020 3:19:01 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj žutog stanja nakon 1997 milisekundi
+Oct 20, 2020 3:19:01 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 4. stanja 38995 milisekundi nakon početka ciklusa
+Oct 20, 2020 3:19:11 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 4. stanja u trajanju od 10001
+Oct 20, 2020 3:19:21 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 4* stanja u trajanju od 9999 milisekundi
+Oct 20, 2020 3:19:21 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 5. stanja 58995 milisekundi od početka ciklusa
+Oct 20, 2020 3:19:26 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpraljackoRacunalo: Gašenje žutog svjetla na semaforima SA2 i SA4 5001 milisekundi od početka 5. stanja
+Oct 20, 2020 3:19:36 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 5. stanja u trajanju od 15001 milisekundi
+Oct 20, 2020 3:19:36 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 6. stanja 73996 milisekundi od početka ciklusa
+Oct 20, 2020 3:19:41 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 6. stanja u trajanju od 4998 milisekundi
+Oct 20, 2020 3:19:41 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj ciklusa u trajanju od 78994 milisekundi
+Oct 20, 2020 3:19:41 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljakoRacunalo: pokreće se žuto stanje iz stanja crveno na semaforima SA1 i SA3
+Oct 20, 2020 3:19:43 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: pokreće se prvo stanje prebacivanjem semafora SA1, SA3, SP2 i SP4 u stanje zeleno nakon 1966 milisekundi
+Oct 20, 2020 3:19:45 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 1. stanja u trajanju od 2083 milisekundi
