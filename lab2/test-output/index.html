@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button class="button" id="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Default_suite">
+              <span class="suite-name border-passed">Default suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Default_suite">
+                    <span>testng-customsuite.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Default_suite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Default_suite">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Default_suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Default_suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Default_suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Default_suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">12 methods,   12 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Default_suite" class="hide-methods passed suite-Default_suite"> (hide)</a> <!-- hide-methods passed suite-Default_suite -->
+                      <a href="#" panel-name="suite-Default_suite" class="show-methods passed suite-Default_suite"> (show)</a> <!-- show-methods passed suite-Default_suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Default_suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="hr.pb.fer.srsv.test.VoziloTest" hash-for-method="smjerI">smjerI</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="hr.pb.fer.srsv.test.VoziloTest" hash-for-method="smjerIJ">smjerIJ</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="hr.pb.fer.srsv.test.VoziloTest" hash-for-method="smjerIS">smjerIS</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="hr.pb.fer.srsv.test.VoziloTest" hash-for-method="smjerJ">smjerJ</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="hr.pb.fer.srsv.test.VoziloTest" hash-for-method="smjerJI">smjerJI</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="hr.pb.fer.srsv.test.VoziloTest" hash-for-method="smjerJZ">smjerJZ</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="hr.pb.fer.srsv.test.VoziloTest" hash-for-method="smjerS">smjerS</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="hr.pb.fer.srsv.test.VoziloTest" hash-for-method="smjerSI">smjerSI</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="hr.pb.fer.srsv.test.VoziloTest" hash-for-method="smjerSZ">smjerSZ</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="hr.pb.fer.srsv.test.VoziloTest" hash-for-method="smjerZ">smjerZ</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="hr.pb.fer.srsv.test.VoziloTest" hash-for-method="smjerZJ">smjerZJ</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="hr.pb.fer.srsv.test.VoziloTest" hash-for-method="smjerZS">smjerZS</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Default_suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Default_suite" class="panel Default_suite">
+          <div class="suite-Default_suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">hr.pb.fer.srsv.test.VoziloTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="smjerI">
+                  </a> <!-- smjerI -->
+                  <span class="method-name">smjerI</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="smjerIJ">
+                  </a> <!-- smjerIJ -->
+                  <span class="method-name">smjerIJ</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="smjerIS">
+                  </a> <!-- smjerIS -->
+                  <span class="method-name">smjerIS</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="smjerJ">
+                  </a> <!-- smjerJ -->
+                  <span class="method-name">smjerJ</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="smjerJI">
+                  </a> <!-- smjerJI -->
+                  <span class="method-name">smjerJI</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="smjerJZ">
+                  </a> <!-- smjerJZ -->
+                  <span class="method-name">smjerJZ</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="smjerS">
+                  </a> <!-- smjerS -->
+                  <span class="method-name">smjerS</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="smjerSI">
+                  </a> <!-- smjerSI -->
+                  <span class="method-name">smjerSI</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="smjerSZ">
+                  </a> <!-- smjerSZ -->
+                  <span class="method-name">smjerSZ</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="smjerZ">
+                  </a> <!-- smjerZ -->
+                  <span class="method-name">smjerZ</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="smjerZJ">
+                  </a> <!-- smjerZJ -->
+                  <span class="method-name">smjerZJ</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="smjerZS">
+                  </a> <!-- smjerZS -->
+                  <span class="method-name">smjerZS</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Default_suite-class-passed -->
+        </div> <!-- panel Default_suite -->
+        <div panel-name="test-xml-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">/private/var/folders/j9/cx5qy3t53yg98pkx5r2qddv80000gn/T/testng-eclipse-1802620367/testng-customsuite.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Default suite&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; verbose=&quot;2&quot; name=&quot;Default test&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;hr.pb.fer.srsv.test.VoziloTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Default test --&gt;
+&lt;/suite&gt; &lt;!-- Default suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Default test (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Default_suite');
+function tableData_Default_suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(12);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'smjerZJ')
+data.setCell(0, 2, 'hr.pb.fer.srsv.test.VoziloTest')
+data.setCell(0, 3, 100009);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'smjerI')
+data.setCell(1, 2, 'hr.pb.fer.srsv.test.VoziloTest')
+data.setCell(1, 3, 6016);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'smjerS')
+data.setCell(2, 2, 'hr.pb.fer.srsv.test.VoziloTest')
+data.setCell(2, 3, 6009);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'smjerJZ')
+data.setCell(3, 2, 'hr.pb.fer.srsv.test.VoziloTest')
+data.setCell(3, 3, 6008);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'smjerIJ')
+data.setCell(4, 2, 'hr.pb.fer.srsv.test.VoziloTest')
+data.setCell(4, 3, 6007);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'smjerZ')
+data.setCell(5, 2, 'hr.pb.fer.srsv.test.VoziloTest')
+data.setCell(5, 3, 6007);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'smjerSZ')
+data.setCell(6, 2, 'hr.pb.fer.srsv.test.VoziloTest')
+data.setCell(6, 3, 6007);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'smjerZS')
+data.setCell(7, 2, 'hr.pb.fer.srsv.test.VoziloTest')
+data.setCell(7, 3, 6007);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'smjerJI')
+data.setCell(8, 2, 'hr.pb.fer.srsv.test.VoziloTest')
+data.setCell(8, 3, 6006);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'smjerJ')
+data.setCell(9, 2, 'hr.pb.fer.srsv.test.VoziloTest')
+data.setCell(9, 3, 6005);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'smjerIS')
+data.setCell(10, 2, 'hr.pb.fer.srsv.test.VoziloTest')
+data.setCell(10, 3, 6005);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'smjerSI')
+data.setCell(11, 2, 'hr.pb.fer.srsv.test.VoziloTest')
+data.setCell(11, 3, 6005);
+window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 2 minutes</span>
+              <div id="times-div-Default_suite">
+              </div> <!-- times-div-Default_suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">hr.pb.fer.srsv.test.VoziloTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeTest</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">smjerI</span>
+                <span class="method-start">54 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">smjerJ</span>
+                <span class="method-start">6073 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">smjerZ</span>
+                <span class="method-start">12080 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">smjerS</span>
+                <span class="method-start">18090 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">smjerZS</span>
+                <span class="method-start">24102 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">smjerSI</span>
+                <span class="method-start">30112 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">smjerIJ</span>
+                <span class="method-start">36119 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">smjerJZ</span>
+                <span class="method-start">42127 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">smjerJI</span>
+                <span class="method-start">48137 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">smjerSZ</span>
+                <span class="method-start">54146 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">smjerIS</span>
+                <span class="method-start">60156 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">smjerZJ</span>
+                <span class="method-start">66162 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">afterTest</span>
+                <span class="method-start">166173 ms</span>
+              </div> <!-- configuration-test after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>

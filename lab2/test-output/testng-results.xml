@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="166178" started-at="2020-11-01T13:56:42 CET" finished-at="2020-11-01T13:59:28 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="166178" started-at="2020-11-01T13:56:42 CET" finished-at="2020-11-01T13:59:28 CET">
+      <class name="hr.pb.fer.srsv.test.VoziloTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:hr.pb.fer.srsv.test.VoziloTest@23e028a9]" name="beforeTest" is-config="true" duration-ms="33" started-at="2020-11-01T13:56:42 CET" finished-at="2020-11-01T13:56:42 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="smjerI()[pri:1, instance:hr.pb.fer.srsv.test.VoziloTest@23e028a9]" name="smjerI" duration-ms="6016" started-at="2020-11-01T13:56:42 CET" finished-at="2020-11-01T13:56:48 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smjerI -->
+        <test-method status="PASS" signature="smjerJ()[pri:2, instance:hr.pb.fer.srsv.test.VoziloTest@23e028a9]" name="smjerJ" duration-ms="6005" started-at="2020-11-01T13:56:48 CET" finished-at="2020-11-01T13:56:54 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smjerJ -->
+        <test-method status="PASS" signature="smjerZ()[pri:3, instance:hr.pb.fer.srsv.test.VoziloTest@23e028a9]" name="smjerZ" duration-ms="6007" started-at="2020-11-01T13:56:54 CET" finished-at="2020-11-01T13:57:00 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smjerZ -->
+        <test-method status="PASS" signature="smjerS()[pri:4, instance:hr.pb.fer.srsv.test.VoziloTest@23e028a9]" name="smjerS" duration-ms="6009" started-at="2020-11-01T13:57:00 CET" finished-at="2020-11-01T13:57:06 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smjerS -->
+        <test-method status="PASS" signature="smjerZS()[pri:5, instance:hr.pb.fer.srsv.test.VoziloTest@23e028a9]" name="smjerZS" duration-ms="6007" started-at="2020-11-01T13:57:06 CET" finished-at="2020-11-01T13:57:12 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smjerZS -->
+        <test-method status="PASS" signature="smjerSI()[pri:6, instance:hr.pb.fer.srsv.test.VoziloTest@23e028a9]" name="smjerSI" duration-ms="6005" started-at="2020-11-01T13:57:12 CET" finished-at="2020-11-01T13:57:18 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smjerSI -->
+        <test-method status="PASS" signature="smjerIJ()[pri:7, instance:hr.pb.fer.srsv.test.VoziloTest@23e028a9]" name="smjerIJ" duration-ms="6007" started-at="2020-11-01T13:57:18 CET" finished-at="2020-11-01T13:57:24 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smjerIJ -->
+        <test-method status="PASS" signature="smjerJZ()[pri:8, instance:hr.pb.fer.srsv.test.VoziloTest@23e028a9]" name="smjerJZ" duration-ms="6008" started-at="2020-11-01T13:57:24 CET" finished-at="2020-11-01T13:57:30 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smjerJZ -->
+        <test-method status="PASS" signature="smjerJI()[pri:9, instance:hr.pb.fer.srsv.test.VoziloTest@23e028a9]" name="smjerJI" duration-ms="6006" started-at="2020-11-01T13:57:30 CET" finished-at="2020-11-01T13:57:36 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smjerJI -->
+        <test-method status="PASS" signature="smjerSZ()[pri:10, instance:hr.pb.fer.srsv.test.VoziloTest@23e028a9]" name="smjerSZ" duration-ms="6007" started-at="2020-11-01T13:57:36 CET" finished-at="2020-11-01T13:57:42 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smjerSZ -->
+        <test-method status="PASS" signature="smjerIS()[pri:11, instance:hr.pb.fer.srsv.test.VoziloTest@23e028a9]" name="smjerIS" duration-ms="6005" started-at="2020-11-01T13:57:42 CET" finished-at="2020-11-01T13:57:48 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smjerIS -->
+        <test-method status="PASS" signature="smjerZJ()[pri:12, instance:hr.pb.fer.srsv.test.VoziloTest@23e028a9]" name="smjerZJ" duration-ms="100009" started-at="2020-11-01T13:57:48 CET" finished-at="2020-11-01T13:59:28 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smjerZJ -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:hr.pb.fer.srsv.test.VoziloTest@23e028a9]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-11-01T13:59:28 CET" finished-at="2020-11-01T13:59:28 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- hr.pb.fer.srsv.test.VoziloTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

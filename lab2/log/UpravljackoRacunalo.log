@@ -1,0 +1,104 @@
+Nov 01, 2020 2:08:02 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: pokreće se žuto stanje iz stanja crveno na semaforima SA1 i SA3
+Nov 01, 2020 2:08:04 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: pokreće se prvo stanje prebacivanjem semafora SA1, SA3, SP2 i SP4 u stanje zeleno nakon 2017 milisekundi
+Nov 01, 2020 2:08:14 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 1. stanja u trajanju od 9998 milisekundi
+Nov 01, 2020 2:08:24 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: kraj 1* stanja nakon 10007 milisekundi
+Nov 01, 2020 2:08:24 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 2. stanja kreće od početka ciklusa nakon 22027 milisekundi, semafori SP2 i SP4 se postavljaju u stanje crveno
+Nov 01, 2020 2:08:29 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Drugo stanje u fazi paljenja žutog svjetla za semafore SA1 i SA3 nakon 5002 milisekundi nakon početka drugog stanja
+Nov 01, 2020 2:08:34 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Drugo stanje kraj, semafori SA1 i SA3 se postavljaju u stanje crveno nakon 5000 miliseknudi od početka drugog stanja, drugo stanje završava
+Nov 01, 2020 2:08:34 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 2* stanja u kojemu svi semafori su u crvenom stanju
+Nov 01, 2020 2:08:39 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 2*. stanja, 2* stanje je trajalo 5001 milisekundi
+Nov 01, 2020 2:08:39 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 1.skup-žuto stanja, ono započinje paljenje
+Nov 01, 2020 2:08:41 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 1.skup-žuto stanja, 1.skup-žuto stanje je trajalo 2002 milisekundi
+Nov 01, 2020 2:08:41 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 1.skup-zeleno stanja, svi semafori prvog skupa prelaze u stanje zeleno
+Nov 01, 2020 2:08:51 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 1.skup-zeleno stanja, 1.skup-zeleno stanje je trajalo 10000 milisekundi
+Nov 01, 2020 2:08:51 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 1.skup-gašenje stanja, svi semafori prvog skupa prelaze u stanje žuto
+Nov 01, 2020 2:08:56 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 1.skup-gašenje stanja, svi semafori su trenutno u crevnom stanju, 1.skup-gašenje stanje je trajalo 4998 milisekundi
+Nov 01, 2020 2:08:56 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 3. stanja 54039miliseknudi nakon početka ciklusa
+Nov 01, 2020 2:09:01 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 3. stanja, treće stanje je trajalo 5002 milisekundi
+Nov 01, 2020 2:09:01 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak žutog stanja pred 4. stanje 59043 milisekundi nakon početka ciklusa
+Nov 01, 2020 2:09:03 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj žutog stanja nakon 2002 milisekundi
+Nov 01, 2020 2:09:03 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 4. stanja 61047 milisekundi nakon početka ciklusa
+Nov 01, 2020 2:09:13 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 4. stanja u trajanju od 9999
+Nov 01, 2020 2:09:23 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 4* stanja u trajanju od 9999 milisekundi
+Nov 01, 2020 2:09:23 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 5. stanja 81047 milisekundi od početka ciklusa
+Nov 01, 2020 2:09:28 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpraljackoRacunalo: Gašenje žutog svjetla na semaforima SA2 i SA4 5000 milisekundi od početka 5. stanja
+Nov 01, 2020 2:09:38 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 5. stanja u trajanju od 14998 milisekundi
+Nov 01, 2020 2:09:38 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 5* stanja 96047 milisekundi od početka ciklusa
+Nov 01, 2020 2:09:43 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 5* stanja u trajanju od 4998 milisekundi
+Nov 01, 2020 2:09:43 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 2.skup-žuto stanja 101046 milisekundi od početka ciklusa
+Nov 01, 2020 2:09:45 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 2.skup-žuto stanja u trajanju od 2001 milisekundi
+Nov 01, 2020 2:09:45 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 2.skup-zeleno stanja 103049 milisekundi od početka ciklusa
+Nov 01, 2020 2:09:55 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 2.skup-zeleno stanja u trajanju od 10001 milisekundi
+Nov 01, 2020 2:09:55 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 2.skup-žuto-gašenje stanja 113052 milisekundi od početka ciklusa
+Nov 01, 2020 2:10:00 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 2.skup-žuto-gašenje stanja u trajanju od 4998 milisekundi
+Nov 01, 2020 2:10:00 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak gašenja semafora 2. skupa, semafori 2. skupa prijelaze u stanje crveno 113052 milisekundi od početka ciklusa
+Nov 01, 2020 2:10:00 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Semafori drugog ciklusa su prešli u stanje crveno
+Nov 01, 2020 2:10:00 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 6. stanja 118052 milisekundi od početka ciklusa
+Nov 01, 2020 2:10:05 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 6. stanja u trajanju od 4999 milisekundi
+Nov 01, 2020 2:10:05 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj ciklusa u trajanju od 123051 milisekundi
+Nov 01, 2020 2:10:05 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: pokreće se žuto stanje iz stanja crveno na semaforima SA1 i SA3
+Nov 01, 2020 2:10:07 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: pokreće se prvo stanje prebacivanjem semafora SA1, SA3, SP2 i SP4 u stanje zeleno nakon 2001 milisekundi
+Nov 01, 2020 2:10:17 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 1. stanja u trajanju od 10001 milisekundi
+Nov 01, 2020 2:10:27 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: kraj 1* stanja nakon 10000 milisekundi
+Nov 01, 2020 2:10:27 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 2. stanja kreće od početka ciklusa nakon 22005 milisekundi, semafori SP2 i SP4 se postavljaju u stanje crveno
+Nov 01, 2020 2:10:32 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Drugo stanje u fazi paljenja žutog svjetla za semafore SA1 i SA3 nakon 5001 milisekundi nakon početka drugog stanja
+Nov 01, 2020 2:10:37 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Drugo stanje kraj, semafori SA1 i SA3 se postavljaju u stanje crveno nakon 4999 miliseknudi od početka drugog stanja, drugo stanje završava
+Nov 01, 2020 2:10:37 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 2* stanja u kojemu svi semafori su u crvenom stanju
+Nov 01, 2020 2:10:42 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 2*. stanja, 2* stanje je trajalo 5001 milisekundi
+Nov 01, 2020 2:10:42 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 1.skup-žuto stanja, ono započinje paljenje
+Nov 01, 2020 2:10:44 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 1.skup-žuto stanja, 1.skup-žuto stanje je trajalo 2002 milisekundi
+Nov 01, 2020 2:10:44 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 1.skup-zeleno stanja, svi semafori prvog skupa prelaze u stanje zeleno
+Nov 01, 2020 2:10:54 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Kraj 1.skup-zeleno stanja, 1.skup-zeleno stanje je trajalo 10000 milisekundi
+Nov 01, 2020 2:10:54 PM hr.pb.fer.srsv.helper.UpravljackoRacunalo run
+INFO: UpravljackoRacunalo: Početak 1.skup-gašenje stanja, svi semafori prvog skupa prelaze u stanje žuto

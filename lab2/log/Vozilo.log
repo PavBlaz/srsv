@@ -1,0 +1,594 @@
+Nov 01, 2020 1:56:42 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 je došlo do raskrižja, te upravljačko računalo evidentira dolazak vozila za pravac zapad-istok
+Nov 01, 2020 1:56:44 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:56:45 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:56:47 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:56:48 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:56:48 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: c234a946-1f01-4c37-9c54-0eaa136734dd je došlo do raskrižja, te upravljačko računalo evidentira dolazak vozila za pravac sjever-jug
+Nov 01, 2020 1:56:48 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: c234a946-1f01-4c37-9c54-0eaa136734dd je krenulo sa semafora SA1 prema raskrizju u smjeru juga
+Nov 01, 2020 1:56:50 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:56:50 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: c234a946-1f01-4c37-9c54-0eaa136734dd je prošlo raskrižje u vremenu od 2001 miliseconds
+Nov 01, 2020 1:56:51 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:56:53 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:56:54 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 je došlo do raskrižja, te upravljačko računalo evidentira dolazak vozila za pravac zapad-istok
+Nov 01, 2020 1:56:54 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:56:56 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:56:56 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:56:57 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:56:57 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:56:59 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:56:59 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:00 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:00 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:00 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 je došlo do raskrižja, te upravljačko računalo evidentira dolazak vozila za pravac sjever-jug
+Nov 01, 2020 1:57:02 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:02 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:02 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:03 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:03 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:03 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:57:05 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:05 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:05 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:06 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:06 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:06 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:06 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f9dad9ab-62aa-49b1-a203-8a46a16e5e7aje došlo do raskrižja, te upravljačko računalo evidentira dolazak vozila za pravac jug-sjever prema zapad-istok i zapad-istok prema jug-sjever
+Nov 01, 2020 1:57:08 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:08 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:08 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:08 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f9dad9ab-62aa-49b1-a203-8a46a16e5e7a čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:09 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:09 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f9dad9ab-62aa-49b1-a203-8a46a16e5e7a čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:09 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:09 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:11 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:11 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f9dad9ab-62aa-49b1-a203-8a46a16e5e7a čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:11 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:11 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:12 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:12 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f9dad9ab-62aa-49b1-a203-8a46a16e5e7a čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:12 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:12 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:12 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f9dad9ab-62aa-49b1-a203-8a46a16e5e7a je krenulo sa semafora SAZS prema raskrizju u smjeru zapada i skrenulo prema sjeveru
+Nov 01, 2020 1:57:12 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 81196fc5-de04-4473-b591-eaac6872755eje došlo do raskrižja, te upravljačko računalo evidentira dolazak vozila za pravac jug-sjever prema zapad-istok i zapad-istok prema jug-sjever
+Nov 01, 2020 1:57:12 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 81196fc5-de04-4473-b591-eaac6872755e je krenulo sa semafora SASI prema raskrizju u smjeru sjevera i skrenulo prema istoku
+Nov 01, 2020 1:57:14 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:14 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:14 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:14 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f9dad9ab-62aa-49b1-a203-8a46a16e5e7a je prošlo raskrižje u vremenu od 1998 miliseconds
+Nov 01, 2020 1:57:14 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 81196fc5-de04-4473-b591-eaac6872755e je prošlo raskrižje u vremenu od 1999 miliseconds
+Nov 01, 2020 1:57:15 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:15 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:15 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:17 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:17 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:17 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:18 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:57:18 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:57:18 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:57:18 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cbf776c5-67fc-4675-9df1-499377227f6fje došlo do raskrižja, te upravljačko računalo evidentira dolazak vozila za pravac jug-sjever prema zapad-istok i zapad-istok prema jug-sjever
+Nov 01, 2020 1:57:18 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cbf776c5-67fc-4675-9df1-499377227f6f je krenulo sa semafora SA4 prema raskrizju u smjeru istoka i skrenulo prema jugu
+Nov 01, 2020 1:57:20 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:20 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:20 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:20 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cbf776c5-67fc-4675-9df1-499377227f6f je prošlo raskrižje u vremenu od 2000 miliseconds
+Nov 01, 2020 1:57:21 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:21 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:21 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:57:23 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:23 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:23 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:24 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:57:24 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:57:24 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:24 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bdje došlo do raskrižja, te upravljačko računalo evidentira dolazak vozila za pravac jug-sjever prema zapad-istok i zapad-istok prema jug-sjever
+Nov 01, 2020 1:57:26 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:26 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:26 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:57:26 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:27 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:27 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:27 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1507 milisekundi
+Nov 01, 2020 1:57:27 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1507 milisekundi
+Nov 01, 2020 1:57:29 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:29 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:29 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:29 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:30 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:30 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:30 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:30 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:30 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600je došlo do raskrižja, te upravljačko računalo evidentira dolazak vozila za pravac jug-sjever prema zapad-istok
+Nov 01, 2020 1:57:32 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:32 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:32 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:32 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:32 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:33 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:33 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:33 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:33 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:33 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:33 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 je krenulo sa semafora SA4 prema raskrizju u smjeru istoka
+Nov 01, 2020 1:57:33 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 je krenulo sa semafora SA2 prema raskrizju u smjeru zapada
+Nov 01, 2020 1:57:35 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:35 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:35 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:35 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: cc6213bd-c17d-417e-a72c-b8cfe33452d4 je prošlo raskrižje u vremenu od 1998 miliseconds
+Nov 01, 2020 1:57:35 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: e305fd77-b959-4503-943a-78c73bba4719 je prošlo raskrižje u vremenu od 1998 miliseconds
+Nov 01, 2020 1:57:36 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6je došlo do raskrižja, te upravljačko računalo evidentira dolazak vozila za pravac jug-sjever prema zapad-istok
+Nov 01, 2020 1:57:36 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:36 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:57:36 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:38 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:38 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:38 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:57:38 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:39 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:39 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:39 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:39 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:41 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:41 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:41 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:41 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:42 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:42 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:42 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:42 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:42 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2je došlo do raskrižja, te upravljačko računalo evidentira dolazak vozila za pravac zapad-istok prema jug-sjever
+Nov 01, 2020 1:57:44 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:44 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:44 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:44 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:44 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:45 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:45 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:45 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:45 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:45 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:47 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:47 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:47 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:47 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:47 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:48 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:48 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:48 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:48 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:48 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f49981ad-bd7b-4b83-98a8-67052be55771je došlo do raskrižja, te upravljačko računalo evidentira dolazak vozila za pravac zapad-istok prema jug-sjever
+Nov 01, 2020 1:57:48 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:57:50 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:50 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:50 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:50 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:50 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f49981ad-bd7b-4b83-98a8-67052be55771 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:50 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:51 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:51 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:51 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:51 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:51 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f49981ad-bd7b-4b83-98a8-67052be55771 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:51 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:53 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f49981ad-bd7b-4b83-98a8-67052be55771 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:53 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:53 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:53 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:53 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:53 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:54 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:54 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:54 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f49981ad-bd7b-4b83-98a8-67052be55771 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:54 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:54 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:54 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:57:56 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f49981ad-bd7b-4b83-98a8-67052be55771 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:56 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:56 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:57:56 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:56 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:57:56 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:57 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f49981ad-bd7b-4b83-98a8-67052be55771 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:57 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:57 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:57 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:57 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:57:57 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:57:59 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f49981ad-bd7b-4b83-98a8-67052be55771 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:59 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:59 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:59 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:57:59 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:57:59 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:58:00 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:00 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f49981ad-bd7b-4b83-98a8-67052be55771 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:58:00 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:00 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:00 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:00 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:58:02 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:58:02 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:02 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:58:02 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f49981ad-bd7b-4b83-98a8-67052be55771 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:02 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:02 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:04 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:58:04 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:04 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:04 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:58:04 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:04 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f49981ad-bd7b-4b83-98a8-67052be55771 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:05 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:58:05 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:58:05 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:58:05 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:58:05 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f49981ad-bd7b-4b83-98a8-67052be55771 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:58:05 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:58:07 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:07 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:07 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:58:07 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:07 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f49981ad-bd7b-4b83-98a8-67052be55771 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:58:07 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:07 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 je krenulo sa semafora SAJZ prema raskrizju u smjeru juga i skrenulo prema istoku
+Nov 01, 2020 1:58:07 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 je krenulo sa semafora SAIS prema raskrizju u smjeru istoka i skrenulo prema sjeveru
+Nov 01, 2020 1:58:07 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd je krenulo sa semafora SAJZ prema raskrizju u smjeru juga i skrenulo prema zapadu
+Nov 01, 2020 1:58:07 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f49981ad-bd7b-4b83-98a8-67052be55771 je krenulo sa semafora SAZJ prema raskrizju u smjeru zapada i skrenulo prema jugu
+Nov 01, 2020 1:58:08 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:58:08 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:58:09 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f49981ad-bd7b-4b83-98a8-67052be55771 je prošlo raskrižje u vremenu od 1998 miliseconds
+Nov 01, 2020 1:58:09 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: f8fe2069-ca01-43c8-8f0a-a91c22369600 je prošlo raskrižje u vremenu od 1999 miliseconds
+Nov 01, 2020 1:58:09 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: af7c7b32-ab3c-443d-8bb4-85d6197cc8bd je prošlo raskrižje u vremenu od 1998 miliseconds
+Nov 01, 2020 1:58:09 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 37b84186-8954-4dbb-923b-d956786de9a2 je prošlo raskrižje u vremenu od 1998 miliseconds
+Nov 01, 2020 1:58:10 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:58:10 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:58:11 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:58:11 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:58:13 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:58:13 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:58:14 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:58:14 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:58:16 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:58:16 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:58:17 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:58:17 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:58:19 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:58:19 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:58:20 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:58:20 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:58:22 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:22 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:23 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:58:23 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:58:25 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:58:25 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:58:26 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:58:26 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:58:28 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:58:28 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:58:28 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 je krenulo sa semafora SA3 prema raskrizju u smjeru sjever
+Nov 01, 2020 1:58:29 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:58:30 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 051a9c31-737e-4c25-a403-8e3286b95832 je prošlo raskrižje u vremenu od 2000 miliseconds
+Nov 01, 2020 1:58:31 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:58:32 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:58:34 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:58:35 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:58:37 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:58:38 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:40 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:58:41 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:58:43 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1501 milisekundi
+Nov 01, 2020 1:58:44 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:46 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1504 milisekundi
+Nov 01, 2020 1:58:47 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:49 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1504 milisekundi
+Nov 01, 2020 1:58:50 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1499 milisekundi
+Nov 01, 2020 1:58:52 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:58:53 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:58:55 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1503 milisekundi
+Nov 01, 2020 1:58:56 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:58:58 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:58:59 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:59:01 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:59:02 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1500 milisekundi
+Nov 01, 2020 1:59:04 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1502 milisekundi
+Nov 01, 2020 1:59:05 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 čekalo je za slijedeću provjeru semafora 1498 milisekundi
+Nov 01, 2020 1:59:05 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 je krenulo sa semafora SASZ prema raskrizju u smjeru sjevera i skrenulo prema zapadu
+Nov 01, 2020 1:59:07 PM hr.pb.fer.srsv.helper.Vozilo run
+INFO: Vozilo: 8519883f-d1b8-4da2-8b41-cfd654de86c6 je prošlo raskrižje u vremenu od 1996 miliseconds
