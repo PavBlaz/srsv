@@ -1,0 +1,24 @@
+Dec 16, 2020 3:46:02 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Hrvoje, sa id-jem: 3b60f8ff-eef3-482d-9ccf-57747e55e810 je inicijaliziran
+Dec 16, 2020 3:46:02 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Hrvoje dolazi do lifta na Cetvrti kat i namjerom na Treci kat
+Dec 16, 2020 3:46:12 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Hrvoje ulazi u lift
+Dec 16, 2020 3:46:23 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Hrvoje izlazi iz lifta na Treci kat
+Dec 16, 2020 3:46:23 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Zavrsava se dretva za putnika/cu Hrvoje
+Dec 16, 2020 3:46:24 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Filipa, sa id-jem: 164e93d1-86ea-4c56-a783-b2fc3d6dfcb5 je inicijaliziran
+Dec 16, 2020 3:46:24 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Filipa dolazi do lifta na Treci kat i namjerom na Prvi kat
+Dec 16, 2020 3:46:24 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Filipa ulazi u lift
+Dec 16, 2020 3:46:41 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Filipa izlazi iz lifta na Prvi kat
+Dec 16, 2020 3:46:41 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Zavrsava se dretva za putnika/cu Filipa
+Dec 16, 2020 3:46:43 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Emanuel, sa id-jem: fdc05b95-52db-4c97-b72b-2cb8bfab0014 je inicijaliziran
+Dec 16, 2020 3:46:43 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Emanuel dolazi do lifta na Drugi kat i namjerom na Cetvrti kat

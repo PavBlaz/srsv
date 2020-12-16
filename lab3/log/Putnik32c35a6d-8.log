@@ -1,0 +1,6 @@
+Dec 16, 2020 4:24:08 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Tihana, sa id-jem: 32c35a6d-8459-4267-a625-256c44bbb023 je inicijaliziran
+Dec 16, 2020 4:24:08 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Tihana dolazi do lifta na Prvi kat i namjerom na Drugi kat
+Dec 16, 2020 4:24:11 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Tihana ulazi u lift

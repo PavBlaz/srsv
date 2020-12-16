@@ -128,7 +128,7 @@ public class GeneratorPutnika extends Thread {
 
 			Putnik putnik = new Putnik(ime, polazni, zeljeni, lift);
 			putnikPool.add(putnik);
-			putnik.run();
+			putnik.start();
 		}
 	}
 

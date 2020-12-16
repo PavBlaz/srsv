@@ -1,0 +1,16 @@
+Dec 16, 2020 4:19:28 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Silvio, sa id-jem: 6f474382-ec4f-496f-bcae-277822d92d8c je inicijaliziran
+Dec 16, 2020 4:19:28 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Silvio dolazi do lifta na Cetvrti kat i namjerom na Treci kat
+Dec 16, 2020 4:20:15 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Silvio ulazi u lift
+Dec 16, 2020 4:20:35 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Silvio izlazi iz lifta na Treci kat
+Dec 16, 2020 4:20:35 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Zavrsava se dretva za putnika/cu Silvio
+Dec 16, 2020 4:20:39 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Blaž, sa id-jem: afb4e494-8c82-4fe1-aaf5-d6920a6afd5f je inicijaliziran
+Dec 16, 2020 4:20:39 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Blaž dolazi do lifta na Treci kat i namjerom na Prvi kat
+Dec 16, 2020 4:20:39 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Blaž ulazi u lift

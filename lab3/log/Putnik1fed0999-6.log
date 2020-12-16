@@ -1,0 +1,6 @@
+Dec 16, 2020 3:28:28 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Vlatka, sa id-jem: 1fed0999-668e-4d16-b1f0-5e251c04afb1 je inicijaliziran
+Dec 16, 2020 3:28:28 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Vlatka dolazi do lifta na Prvi kat i namjerom na Cetvrti kat
+Dec 16, 2020 3:28:29 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Vlatka ulazi u lift

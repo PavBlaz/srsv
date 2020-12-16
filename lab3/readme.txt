@@ -1,0 +1,1 @@
+U navedenom direktoriju nalazi se program za simuliranje jednostavnog lifta, koji ima 4 kata na koje prevozi putnike. Putnici se nasumice generiraju sa nasumičnog polaznog i željenog kata, te ih lift detektira, to ovisno o trenutnom stanju u dolazi do kata na kojem je putnik, otvara vrata dizala, pušta putnika u dizalo, zatvara vrata, i odvozi putnika do njegovog željenog kata.

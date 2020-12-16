@@ -1,0 +1,14 @@
+Dec 16, 2020 3:29:41 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Nikolina, sa id-jem: 18ffae3b-b406-41b2-bd72-0a3b8212e389 je inicijaliziran
+Dec 16, 2020 3:29:41 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Nikolina dolazi do lifta na Treci kat i namjerom na Cetvrti kat
+Dec 16, 2020 3:29:55 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Nikolina ulazi u lift
+Dec 16, 2020 3:30:23 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Nikolina izlazi iz lifta na Cetvrti kat
+Dec 16, 2020 3:30:23 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Zavrsava se dretva za putnika/cu Nikolina
+Dec 16, 2020 3:30:26 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Marijo, sa id-jem: 4c42298e-f4b6-44ce-80ad-0a3d230cddd8 je inicijaliziran
+Dec 16, 2020 3:30:26 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Marijo dolazi do lifta na Prvi kat i namjerom na Cetvrti kat

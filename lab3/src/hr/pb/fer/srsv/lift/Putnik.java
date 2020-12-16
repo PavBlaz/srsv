@@ -7,6 +7,7 @@ import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
 import hr.pb.fer.srsv.lift.Lift.Kat;
+import hr.pb.fer.srsv.lift.Lift.Smjer;
 import hr.pb.fer.srsv.lift.Lift.Vrata;
 
 public class Putnik extends Thread{
@@ -25,6 +26,11 @@ public class Putnik extends Thread{
 	
 	FileHandler fh;
 	Logger logger = Logger.getLogger("Putnik");
+	
+	private Smjer smjer;
+	
+	private boolean flag;
+	
 	
 	public Putnik(String ime, Kat polazni, Kat zeljeni, Lift lift) {
 		this.ime = ime;
@@ -45,6 +51,32 @@ public class Putnik extends Thread{
 		SimpleFormatter formatter = new SimpleFormatter();
 		fh.setFormatter(formatter);
 		logger.info("Logger za putnika/cu: " +ime+ ", sa id-jem: " +id.toString()+ " je inicijaliziran");
+		
+		switch(polazni) {
+			case Prvi:
+				smjer = Smjer.gore;
+				break;
+			case Drugi:
+				if(zeljeni.equals(Kat.Prvi))
+					smjer = Smjer.dole;
+				else
+					smjer = Smjer.gore;
+				break;
+			case Treci:
+				if(zeljeni.equals(Kat.Cetvrti))
+					smjer = Smjer.gore;
+				else
+					smjer = Smjer.dole;
+				break;
+			case Cetvrti:
+				smjer = Smjer.dole;
+				break;
+			default:
+				smjer = Smjer.neodreden;
+				break;
+		}
+		
+		flag = false;
 	}
 
 	public String getIme() {
@@ -61,6 +93,19 @@ public class Putnik extends Thread{
 	
 	public char getInitial() {
 		return initial;
+	}
+	
+	public Smjer getSmjer() {
+		return smjer;
+	}
+	
+	public boolean getFlag() {
+		return flag;
+	}
+	
+	public void setFlag() {
+		flag = true;
+		return;
 	}
 	
 	@Override
@@ -93,7 +138,7 @@ public class Putnik extends Thread{
 				break;
 		}
 		//Čekanje dok ne dođe lift na polazni kat, dok se vrata ne otvore, i dok ne postoji slobodno mjesto u liftu
-		while(!(lift.getKat().equals(polazni) && lift.getVrata().equals(Vrata.otvoreno) && (lift.getDizalo().size()< 8) )) {
+		while(!(lift.getKat().equals(polazni) && lift.getVrata().equals(Vrata.otvoreno) && (lift.getDizalo().size()< 8) && (lift.getSmjer().equals(smjer)))) {
 			try {
 				super.sleep(1234);
 			} catch (InterruptedException e) {
@@ -105,7 +150,7 @@ public class Putnik extends Thread{
 		logger.info("Putnik/ca " +ime+ " ulazi u lift");
 		while(true) {
 			synchronized(this) {
-				if(lift.getKat().equals(polazni) && lift.getVrata().equals(Vrata.otvoreno) && (lift.getDizalo().size()< 8)) {
+				if(lift.getKat().equals(polazni) && lift.getVrata().equals(Vrata.otvoreno) && (lift.getDizalo().size()< 8) && (lift.getSmjer().equals(smjer))) {
 					lift.getDizalo().add(this);
 					break;
 				} else {

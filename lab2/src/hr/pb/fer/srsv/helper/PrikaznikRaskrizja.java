@@ -39,7 +39,7 @@ public class PrikaznikRaskrizja extends Thread {
 	@Override
 	public void run() {
 		while (true) {
-			prikaz = new StringBuffer("              (sjever)\n" + "\n" + "              |   |  |\n"
+			prikaz = new StringBuffer("\n              (sjever)\n" + "\n" + "              |   |  |\n"
 					+ "              |   |  | \n" + "              |   |  |  \n" + "           ---+/|\\|  +---\n"
 					+ "                     \\   \n" + "                     -   \n" + "(zapad)    ---       /   \n"
 					+ "              /       ---    (istok)\n" + "              -           \n"

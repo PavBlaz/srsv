@@ -51,20 +51,20 @@ public class Prikaznik extends Thread{
 	@Override
 	public void run() {
 		while(true) {
-			str = new StringBuffer("              Lift1     "
-					+"Smjer/vrata:            "
-					+"Stajanja:=====  ----  == Izašli"
-					+"4:          |          |          "
-					+"  ==========|          |"
-					+"3:          |          |          "
-					+"  ==========|          |"
-					+"2:          |          |          "
-					+"  ==========|          |"
-					+"1:          |          |          "
-					+"========================"
-					+"Putnici:                "
-					+"     od:                "
-					+"     do:                ");
+			str = new StringBuffer("              Lift1     \n"
+					+"Smjer/vrata:            \n"
+					+"Stajanja:=====  ----  == Izašli\n"
+					+"4:          |          |          \n"
+					+"  ==========|          |\n"
+					+"3:          |          |          \n"
+					+"  ==========|          |\n"
+					+"2:          |          |          \n"
+					+"  ==========|          |\n"
+					+"1:          |          |          \n"
+					+"========================\n"
+					+"Putnici:                \n"
+					+"     od:                \n"
+					+"     do:                \n");
 			//Ispis pokazivaca lifta za smjer kretanja i pozicije vrata(otvoreno-zatvoreno)
 			switch(l1.getSmjer()) {
 				case gore:
@@ -72,6 +72,8 @@ public class Prikaznik extends Thread{
 					break;
 				case dole:
 					str.setCharAt(42, 'D');
+					break;
+				default:
 					break;
 			}
 			
@@ -89,7 +91,7 @@ public class Prikaznik extends Thread{
 			if(!l1.getKat1Ulaz().isEmpty()) {
 				i = 0;
 				for(Putnik p : l1.getKat1Ulaz()) {
-					str.setCharAt(265+i, p.getInitial());
+					str.setCharAt(264+i, p.getInitial());
 					i++;
 					if(i==10)
 						break;
@@ -98,7 +100,7 @@ public class Prikaznik extends Thread{
 			if(!l1.getKat1Izlaz().isEmpty()) {
 				i = 0;
 				for(Putnik p : l1.getKat1Izlaz()) {
-					str.setCharAt(287+i, p.getInitial());
+					str.setCharAt(286+i, p.getInitial());
 					i++;
 					if(i==10)
 						break;
@@ -107,7 +109,7 @@ public class Prikaznik extends Thread{
 			if(!l1.getKat2Ulaz().isEmpty()) {
 				i = 0;
 				for(Putnik p: l1.getKat2Ulaz()) {
-					str.setCharAt(205+i, p.getInitial());
+					str.setCharAt(204+i, p.getInitial());
 					i++;
 					if(i==10)
 						break;
@@ -116,7 +118,7 @@ public class Prikaznik extends Thread{
 			if(!l1.getKat2Izlaz().isEmpty()) {
 				i = 0;
 				for(Putnik p: l1.getKat2Izlaz()) {
-					str.setCharAt(227+i, p.getInitial());
+					str.setCharAt(226+i, p.getInitial());
 					i++;
 					if(i==10)
 						break;
@@ -125,7 +127,7 @@ public class Prikaznik extends Thread{
 			if(!l1.getKat3Ulaz().isEmpty()) {
 				i = 0;
 				for(Putnik p: l1.getKat3Ulaz()) {
-					str.setCharAt(145+i, p.getInitial());
+					str.setCharAt(144+i, p.getInitial());
 					i++;
 					if(i==10)
 						break;
@@ -134,7 +136,7 @@ public class Prikaznik extends Thread{
 			if(!l1.getKat3Izlaz().isEmpty()) {
 				i = 0;
 				for(Putnik p: l1.getKat3Izlaz()) {
-					str.setCharAt(167+i, p.getInitial());
+					str.setCharAt(166+i, p.getInitial());
 					i++;
 					if(i==10)
 						break;
@@ -143,16 +145,16 @@ public class Prikaznik extends Thread{
 			if(!l1.getKat4Ulaz().isEmpty()) {
 				i = 0;
 				for(Putnik p: l1.getKat4Ulaz()) {
-					str.setCharAt(82+i, p.getInitial());
+					str.setCharAt(84+i, p.getInitial());
 					i++;
 					if(i==10)
 						break;
 				}
 			}
-			if(!l1.getKat4Ulaz().isEmpty()) {
+			if(!l1.getKat4Izlaz().isEmpty()) {
 				i = 0;
 				for(Putnik p: l1.getKat4Izlaz()) {
-					str.setCharAt(107+i, p.getInitial());
+					str.setCharAt(106+i, p.getInitial());
 					i++;
 					if(i==10)
 						break;
@@ -162,70 +164,70 @@ public class Prikaznik extends Thread{
 			i = 0;
 			switch(l1.getKat()) {
 				case Prvi:
-					str.setCharAt(276, '[');
-					str.setCharAt(275, ']');
+					str.setCharAt(275, '[');
+					str.setCharAt(284, ']');
 					for(Putnik p : l1.getDizalo()) {
-						str.setCharAt(277+i, p.getInitial());
+						str.setCharAt(276+i, p.getInitial());
 						i++;
 						if(i==8)
 							break;
 					}
 					break;
 				case PoluPrviDrugi:
-					str.setCharAt(251, '[');
-					str.setCharAt(260, ']');
+					str.setCharAt(250, '[');
+					str.setCharAt(259, ']');
 					for(Putnik p : l1.getDizalo()) {
-						str.setCharAt(252+i, p.getInitial());
+						str.setCharAt(251+i, p.getInitial());
 						i++;
 						if(i==8)
 							break;
 					}
 					break;
 				case Drugi:
-					str.setCharAt(216, '[');
-					str.setCharAt(225, ']');
+					str.setCharAt(215, '[');
+					str.setCharAt(224, ']');
 					for(Putnik p : l1.getDizalo()) {
-						str.setCharAt(217+i, p.getInitial());
+						str.setCharAt(216+i, p.getInitial());
 						i++;
 						if(i==8)
 							break;
 					}
 					break;
 				case PoluDrugiTreci:
-					str.setCharAt(191, '[');
-					str.setCharAt(200, ']');
+					str.setCharAt(190, '[');
+					str.setCharAt(199, ']');
 					for(Putnik p : l1.getDizalo()) {
-						str.setCharAt(192+i, p.getInitial());
+						str.setCharAt(191+i, p.getInitial());
 						i++;
 						if(i==8)
 							break;
 					}
 					break;
 				case Treci:
-					str.setCharAt(156, '[');
-					str.setCharAt(165, ']');
+					str.setCharAt(155, '[');
+					str.setCharAt(164, ']');
 					for(Putnik p : l1.getDizalo()) {
-						str.setCharAt(157+i, p.getInitial());
+						str.setCharAt(156+i, p.getInitial());
 						i++;
 						if(i==8)
 							break;
 					}
 					break;
 				case PoluTreciCetvrti:
-					str.setCharAt(131, '[');
-					str.setCharAt(140, ']');
+					str.setCharAt(130, '[');
+					str.setCharAt(139, ']');
 					for(Putnik p : l1.getDizalo()) {
-						str.setCharAt(132+i, p.getInitial());
+						str.setCharAt(131+i, p.getInitial());
 						i++;
 						if(i==8)
 							break;
 					}
 					break;
 				case Cetvrti:
-					str.setCharAt(105, ']');
-					str.setCharAt(96, '[');
+					str.setCharAt(104, ']');
+					str.setCharAt(95, '[');
 					for(Putnik p : l1.getDizalo()) {
-						str.setCharAt(97+i, p.getInitial());
+						str.setCharAt(96+i, p.getInitial());
 						i++;
 						if(i==8)
 							break;
@@ -235,11 +237,12 @@ public class Prikaznik extends Thread{
 			
 			//Ispis svih izlaznih putnika
 			if(!l1.getIzasli().isEmpty()) {
+				i = 0;
 				for(Putnik p: l1.getIzasli()) {
-					i = 0;
 					str.setCharAt(331+i, p.getInitial());
 					str.setCharAt(356+i, getLevelChar(p.getPolazni()));
 					str.setCharAt(381+i, getLevelChar(p.getZeljeni()));
+					i++;
 					if(i==15)
 						break;
 				}

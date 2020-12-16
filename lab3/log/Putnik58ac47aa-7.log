@@ -1,0 +1,14 @@
+Dec 16, 2020 4:18:19 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Matija, sa id-jem: 58ac47aa-763d-462b-9a26-2550488e66b9 je inicijaliziran
+Dec 16, 2020 4:18:19 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Matija dolazi do lifta na Drugi kat i namjerom na Prvi kat
+Dec 16, 2020 4:18:27 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Matija ulazi u lift
+Dec 16, 2020 4:18:37 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Matija izlazi iz lifta na Prvi kat
+Dec 16, 2020 4:18:37 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Zavrsava se dretva za putnika/cu Matija
+Dec 16, 2020 4:18:42 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Luka, sa id-jem: fe463f62-6a61-4d14-87e1-3675aae6c9ca je inicijaliziran
+Dec 16, 2020 4:18:42 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Luka dolazi do lifta na Treci kat i namjerom na Cetvrti kat

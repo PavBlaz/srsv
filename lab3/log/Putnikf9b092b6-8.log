@@ -1,0 +1,46 @@
+Dec 16, 2020 4:22:02 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Josipa, sa id-jem: f9b092b6-887d-4cd2-8d2d-e2dd5a298f5a je inicijaliziran
+Dec 16, 2020 4:22:02 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Josipa dolazi do lifta na Cetvrti kat i namjerom na Prvi kat
+Dec 16, 2020 4:22:22 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Josipa ulazi u lift
+Dec 16, 2020 4:22:46 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Josipa izlazi iz lifta na Prvi kat
+Dec 16, 2020 4:22:46 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Zavrsava se dretva za putnika/cu Josipa
+Dec 16, 2020 4:22:46 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Zoran, sa id-jem: 97244333-60d8-46e7-9c62-f39c5702f64f je inicijaliziran
+Dec 16, 2020 4:22:46 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Zoran dolazi do lifta na Prvi kat i namjerom na Drugi kat
+Dec 16, 2020 4:22:51 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Zoran ulazi u lift
+Dec 16, 2020 4:23:02 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Zoran izlazi iz lifta na Drugi kat
+Dec 16, 2020 4:23:02 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Zavrsava se dretva za putnika/cu Zoran
+Dec 16, 2020 4:23:07 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Kristijan, sa id-jem: e332a9d6-a061-4183-95b0-315b4c6396ab je inicijaliziran
+Dec 16, 2020 4:23:07 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Kristijan dolazi do lifta na Treci kat i namjerom na Prvi kat
+Dec 16, 2020 4:23:15 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Kristijan ulazi u lift
+Dec 16, 2020 4:23:31 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Kristijan izlazi iz lifta na Prvi kat
+Dec 16, 2020 4:23:31 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Zavrsava se dretva za putnika/cu Kristijan
+Dec 16, 2020 4:23:35 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Matija, sa id-jem: dfa22454-f71b-42db-b563-69b69fdac1e5 je inicijaliziran
+Dec 16, 2020 4:23:35 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Matija dolazi do lifta na Treci kat i namjerom na Prvi kat
+Dec 16, 2020 4:23:49 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Matija ulazi u lift
+Dec 16, 2020 4:24:06 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Matija izlazi iz lifta na Prvi kat
+Dec 16, 2020 4:24:06 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Zavrsava se dretva za putnika/cu Matija
+Dec 16, 2020 4:24:08 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Tihana, sa id-jem: 32c35a6d-8459-4267-a625-256c44bbb023 je inicijaliziran
+Dec 16, 2020 4:24:08 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Tihana dolazi do lifta na Prvi kat i namjerom na Drugi kat
+Dec 16, 2020 4:24:11 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Tihana ulazi u lift

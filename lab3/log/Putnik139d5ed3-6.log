@@ -1,0 +1,14 @@
+Dec 16, 2020 3:54:33 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Nikolina, sa id-jem: 139d5ed3-6034-425d-b615-8b39e83c6d45 je inicijaliziran
+Dec 16, 2020 3:54:33 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Nikolina dolazi do lifta na Cetvrti kat i namjerom na Prvi kat
+Dec 16, 2020 3:58:04 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Nikolina ulazi u lift
+Dec 16, 2020 3:59:04 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Nikolina izlazi iz lifta na Prvi kat
+Dec 16, 2020 3:59:04 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Zavrsava se dretva za putnika/cu Nikolina
+Dec 16, 2020 3:59:05 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Vedrana, sa id-jem: b4c6eeb1-0ed8-4242-9233-ecdf6d11f6ce je inicijaliziran
+Dec 16, 2020 3:59:05 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Vedrana dolazi do lifta na Drugi kat i namjerom na Treci kat

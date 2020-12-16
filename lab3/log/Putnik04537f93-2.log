@@ -1,0 +1,14 @@
+Dec 16, 2020 4:13:53 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Tomislav, sa id-jem: 04537f93-2976-469a-9c9a-3e733ef22124 je inicijaliziran
+Dec 16, 2020 4:13:53 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Tomislav dolazi do lifta na Treci kat i namjerom na Drugi kat
+Dec 16, 2020 4:14:02 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Tomislav ulazi u lift
+Dec 16, 2020 4:14:13 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Tomislav izlazi iz lifta na Drugi kat
+Dec 16, 2020 4:14:13 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Zavrsava se dretva za putnika/cu Tomislav
+Dec 16, 2020 4:14:17 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Valentina, sa id-jem: 878b5823-5cc0-4151-b4cd-bd2fe961058c je inicijaliziran
+Dec 16, 2020 4:14:17 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Valentina dolazi do lifta na Treci kat i namjerom na Prvi kat

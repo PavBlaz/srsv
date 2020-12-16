@@ -1,0 +1,8 @@
+Dec 16, 2020 4:28:31 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Filipa, sa id-jem: a38d8b44-b5bc-4a1c-8eb2-1fd6246df728 je inicijaliziran
+Dec 16, 2020 4:28:31 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Filipa dolazi do lifta na Drugi kat i namjerom na Cetvrti kat
+Dec 16, 2020 4:28:33 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Tihana, sa id-jem: 28525065-559c-47bf-8e44-9f6cfbb93403 je inicijaliziran
+Dec 16, 2020 4:28:33 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Tihana dolazi do lifta na Prvi kat i namjerom na Cetvrti kat

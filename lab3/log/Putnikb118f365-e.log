@@ -1,0 +1,14 @@
+Dec 16, 2020 4:00:42 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Marko, sa id-jem: b118f365-edeb-4cf2-8496-d2db4a2fa857 je inicijaliziran
+Dec 16, 2020 4:00:42 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Marko dolazi do lifta na Drugi kat i namjerom na Prvi kat
+Dec 16, 2020 4:00:49 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Marko ulazi u lift
+Dec 16, 2020 4:01:01 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Marko izlazi iz lifta na Prvi kat
+Dec 16, 2020 4:01:01 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Zavrsava se dretva za putnika/cu Marko
+Dec 16, 2020 4:01:04 PM hr.pb.fer.srsv.lift.Putnik <init>
+INFO: Logger za putnika/cu: Josip, sa id-jem: c8ac24f1-ec58-44b1-9538-56164db9daa0 je inicijaliziran
+Dec 16, 2020 4:01:04 PM hr.pb.fer.srsv.lift.Putnik run
+INFO: Putnik/ca Josip dolazi do lifta na Prvi kat i namjerom na Treci kat
