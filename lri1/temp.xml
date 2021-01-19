@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<current_observation version="1.0"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://www.weather.gov/view/current_observation.xsd">
+
+	<credit>Davis Instruments Corp.</credit>
+	<credit_URL>http://www.davisnet.com</credit_URL>
+	<disclaimer_url>http://www.davisnet.com/about/terms.asp</disclaimer_url>
+	<copyright_url>http://www.davisnet.com/about/terms.asp</copyright_url>
+	<privacy_policy_url>http://www.davisnet.com/about/privacy.asp</privacy_policy_url>
+	<image>
+		<url>http://www.weatherlink.com/images/Logo_Davis_reflxblu.jpg</url>
+		<title>Davis WeatherLink</title>
+		<link>http://www.weatherlink.com</link>
+	</image>
+	<suggested_pickup>15 minutes after the hour</suggested_pickup>
+	<suggested_pickup_period>60</suggested_pickup_period>
+	<dewpoint_c>-2.2</dewpoint_c>
+	<dewpoint_f>28.0</dewpoint_f>
+	<dewpoint_string>28.0 F (-2.2 C)</dewpoint_string>
+	<heat_index_c>1.7</heat_index_c>
+	<heat_index_f>35.0</heat_index_f>
+	<heat_index_string>35.0 F (1.7 C)</heat_index_string>
+	<location>Zagreb, Croatia</location>
+	<latitude>45.82293</latitude>
+	<longitude>15.8572</longitude>
+	<observation_time>Last Updated on Dec 27 2020, 12:27 pm CET</observation_time>
+	<observation_time_rfc822>Sun, 27 Dec 2020 12:27:29 +0100</observation_time_rfc822>
+	<pressure_in>30.018</pressure_in>
+	<pressure_mb>1016.5</pressure_mb>
+	<pressure_string>1016.5 mb</pressure_string>
+	<relative_humidity>76</relative_humidity>
+	<station_id>rgn</station_id>
+	<temp_c>1.6</temp_c>
+	<temp_f>34.9</temp_f>
+	<temperature_string>34.9 F (1.6 C)</temperature_string>
+	<wind_degrees>234</wind_degrees>
+	<wind_dir>Southwest</wind_dir>
+	<wind_kt>0.0</wind_kt>
+	<wind_mph>0.0</wind_mph>
+	<windchill_c>1.7</windchill_c>
+	<windchill_f>35.0</windchill_f>
+	<windchill_string>35.0 F (1.7 C)</windchill_string>
+	<davis_current_observation>
+		<DID>001D0A008F0E</DID>
+		<station_name>Kostanjek</station_name>
+		<observation_age>48</observation_age>
+		<dewpoint_day_high_f>28</dewpoint_day_high_f>
+		<dewpoint_day_high_time>9:52am</dewpoint_day_high_time>
+		<dewpoint_day_low_f>22</dewpoint_day_low_f>
+		<dewpoint_day_low_time>12:00am</dewpoint_day_low_time>
+		<dewpoint_month_high_f>51</dewpoint_month_high_f>
+		<dewpoint_month_low_f>22</dewpoint_month_low_f>
+		<dewpoint_year_high_f>77</dewpoint_year_high_f>
+		<dewpoint_year_low_f>12</dewpoint_year_low_f>
+		<et_day>0.005</et_day>
+		<et_month>0.300</et_month>
+		<et_year>36.040</et_year>
+		<heat_index_day_high_f>35</heat_index_day_high_f>
+		<heat_index_day_high_time>12:27pm</heat_index_day_high_time>
+		<heat_index_month_high_f>59</heat_index_month_high_f>
+		<heat_index_year_high_f>106</heat_index_year_high_f>
+		<pressure_day_high_in>30.337</pressure_day_high_in>
+		<pressure_day_high_time>12:00am</pressure_day_high_time>
+		<pressure_day_low_in>30.018</pressure_day_low_in>
+		<pressure_day_low_time>12:26pm</pressure_day_low_time>
+		<pressure_month_high_in>30.563</pressure_month_high_in>
+		<pressure_month_low_in>29.655</pressure_month_low_in>
+		<pressure_tendency_string>Falling Rapidly</pressure_tendency_string>
+		<pressure_year_high_in>31.078</pressure_year_high_in>
+		<pressure_year_low_in>29.365</pressure_year_low_in>
+		<rain_day_in>0.0000</rain_day_in>
+		<rain_month_in>2.2047</rain_month_in>
+		<rain_rate_day_high_in_per_hr>0.0000</rain_rate_day_high_in_per_hr>
+		<rain_rate_hour_high_in_per_hr>0.0000</rain_rate_hour_high_in_per_hr>
+		<rain_rate_in_per_hr>0.0000</rain_rate_in_per_hr>
+		<rain_rate_month_high_in_per_hr>0.7402</rain_rate_month_high_in_per_hr>
+		<rain_rate_year_high_in_per_hr>7.6850</rain_rate_year_high_in_per_hr>
+		<rain_storm_in>0.0000</rain_storm_in>
+		<rain_year_in>10.3858</rain_year_in>
+		<relative_humidity_day_high>81</relative_humidity_day_high>
+		<relative_humidity_day_high_time>2:41am</relative_humidity_day_high_time>
+		<relative_humidity_day_low>69</relative_humidity_day_low>
+		<relative_humidity_day_low_time>5:07am</relative_humidity_day_low_time>
+		<relative_humidity_month_high>97</relative_humidity_month_high>
+		<relative_humidity_in>64</relative_humidity_in>
+		<relative_humidity_in_day_high>67</relative_humidity_in_day_high>
+		<relative_humidity_in_day_high_time>12:00am</relative_humidity_in_day_high_time>
+		<relative_humidity_in_day_low>64</relative_humidity_in_day_low>
+		<relative_humidity_in_day_low_time>11:45am</relative_humidity_in_day_low_time>
+		<relative_humidity_in_month_high>69</relative_humidity_in_month_high>
+		<relative_humidity_in_month_low>36</relative_humidity_in_month_low>
+		<relative_humidity_in_year_high>70</relative_humidity_in_year_high>
+		<relative_humidity_in_year_low>29</relative_humidity_in_year_low>
+		<solar_radiation>230</solar_radiation>
+		<solar_radiation_day_high>250</solar_radiation_day_high>
+		<solar_radiation_day_high_time>9:44am</solar_radiation_day_high_time>
+		<solar_radiation_month_high>429</solar_radiation_month_high>
+		<solar_radiation_year_high>1336</solar_radiation_year_high>
+		<sunrise>7:37am</sunrise>
+		<sunset>4:18pm</sunset>
+		<temp_day_high_f>34.9</temp_day_high_f>
+		<temp_day_high_time>12:27pm</temp_day_high_time>
+		<temp_day_low_f>29.1</temp_day_low_f>
+		<temp_day_low_time>1:26am</temp_day_low_time>
+		<temp_month_high_f>59.6</temp_month_high_f>
+		<temp_month_low_f>27.1</temp_month_low_f>
+		<temp_year_high_f>92.8</temp_year_high_f>
+		<temp_year_low_f>23.0</temp_year_low_f>
+		<temp_in_day_high_f>39.9</temp_in_day_high_f>
+		<temp_in_day_high_time>12:24pm</temp_in_day_high_time>
+		<temp_in_day_low_f>38.0</temp_in_day_low_f>
+		<temp_in_day_low_time>2:30am</temp_in_day_low_time>
+		<temp_in_f>39.9</temp_in_f>
+		<temp_in_month_high_f>74.6</temp_in_month_high_f>
+		<temp_in_month_low_f>34.6</temp_in_month_low_f>
+		<temp_in_year_high_f>102.2</temp_in_year_high_f>
+		<temp_in_year_low_f>33.1</temp_in_year_low_f>
+		<uv_index>0.5</uv_index>
+		<uv_index_day_high>0.5</uv_index_day_high>
+		<uv_index_day_high_time>12:22pm</uv_index_day_high_time>
+		<uv_index_month_high>0.8</uv_index_month_high>
+		<uv_index_year_high>7.4</uv_index_year_high>
+		<wind_day_high_mph>7.0</wind_day_high_mph>
+		<wind_day_high_time>5:04am</wind_day_high_time>
+		<wind_month_high_mph>26.0</wind_month_high_mph>
+		<wind_ten_min_avg_mph>0.0</wind_ten_min_avg_mph>
+		<wind_ten_min_gust_mph>4.0</wind_ten_min_gust_mph>
+		<wind_year_high_mph>43.0</wind_year_high_mph>
+		<windchill_day_low_f>29</windchill_day_low_f>
+		<windchill_day_low_time>1:15am</windchill_day_low_time>
+		<windchill_month_low_f>27</windchill_month_low_f>
+		<windchill_year_low_f>16</windchill_year_low_f>
+	</davis_current_observation>
+	<time_to_generate>0.008435 seconds</time_to_generate>
+</current_observation>
